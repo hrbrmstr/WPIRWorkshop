@@ -21,9 +21,6 @@ devtools::install_github("hrbrmstr/hrbrmrkdn")
 
 Here are the packages that were used in making the handout:
 
-<style>
-pre {font-size:10px}
-</style>
 ```
 @Manual{R-base,
   title = {R: A Language and Environment for Statistical Computing},
