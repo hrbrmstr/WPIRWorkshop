@@ -1,0 +1,11 @@
+base
+rhandsontable
+tidyr
+dplyr
+ggplot2
+leaflet
+htmltools
+DT
+shiny
+WHO
+scales
