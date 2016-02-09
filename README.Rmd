@@ -1,0 +1,13 @@
+---
+title: "Untitled"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## WPI R Workshop
+
+These are the materials for the R Workshop help at [WPI](http://www.wpi.edu/) on 2016-02-10.
+
